@@ -1,6 +1,6 @@
 # About Me
 
-- 🔭 I’m currently working on FreeCodeCamp's Responsive Web Design course.
+- 🔭 I’m currently working on FreeCodeCamp's JavaScript Algorithms and Data Structures course.
 - 🌱 I’m currently learning JavaScript.
 - 📆 Once I finish some of FreeCodeCamp's curriculum and get used to programming, I will start Harvards cs50x course on edx.
 - 🤔 I’m looking for help with learning coding using free resources.
